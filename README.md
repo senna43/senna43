@@ -5,7 +5,7 @@ My name is **Matheus**, I am **16 years old**, and I am currently studying in th
 
 ## My skills
 **At the moment, I am proficient or learning the following programming languages:**
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" width="50" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" alt="HTML" width="50" />
@@ -17,10 +17,10 @@ My name is **Matheus**, I am **16 years old**, and I am currently studying in th
 
 ## Contacts
 <div>
-  <a href="https://instagram.com/_mathew056" target="_blank">
+  <a href="https://instagram.com/senna.fnz" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:matheusyon3@gmail.com">
+  <a href="mailto:matheusqon3@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>   
 </div>
